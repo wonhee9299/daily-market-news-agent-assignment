@@ -2,7 +2,7 @@
 
 ## URL
 
-GitHub 저장소 생성 후 실제 주소로 교체한다.
+https://github.com/wonhee9299/daily-market-news-agent-assignment
 
 ## 후기/설명
 
