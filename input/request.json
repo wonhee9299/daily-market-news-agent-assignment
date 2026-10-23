@@ -1,0 +1,9 @@
+{
+  "industry": "반도체",
+  "keywords": ["HBM", "AI 반도체", "메모리"],
+  "date_from": "YYYY-MM-DD",
+  "date_to": "YYYY-MM-DD",
+  "max_articles": 5,
+  "official_sources": ["기업 공식 뉴스룸", "정부·공공기관 발표"],
+  "exclude_topics": ["출처 불명 정보", "유료 본문을 확인할 수 없는 자료"]
+}

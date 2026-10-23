@@ -1,0 +1,9 @@
+{
+  "industry": "반도체(교육용 시연)",
+  "keywords": ["HBM", "AI 반도체", "메모리"],
+  "date_from": "2026-01-15",
+  "date_to": "2026-01-15",
+  "max_articles": 3,
+  "official_sources": ["교육용 가상 뉴스룸"],
+  "exclude_topics": ["실제 투자 판단"]
+}
